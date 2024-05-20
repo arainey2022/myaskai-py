@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "myaskai-py"
-version = "0.0.1"
+name = "myaskai_py"
+version = "1.0.4"
 authors = [
   { name="Alex", email="Alexrainey00@gmail.com" },
 ]
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ErenYea/myaskai-py"
-Issues = "https://github.com/ErenYea/myaskai-py/issues"
+Homepage = "https://github.com/arainey2022/myaskai-py"
+Issues = "https://github.com/arainey2022/myaskai-py/issues"

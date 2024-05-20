@@ -26,7 +26,7 @@ Here's a quick guide on how to setup My AskAI in your JavaScript project.
 First, import the SDK into your project:
 
 ```python
-from myaskai_py import MyAskAI
+from myaskaipy import MyAskAI
 ```
 
 ### Initializing My AskAI
